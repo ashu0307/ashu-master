@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/com.jayway.rest-assured-osgi-1.6.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/com.jayway.rest-assured-osgi-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/commons-codec-1.10 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/commons-collections4-4.1 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/commons-logging-1.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/curvesapi-1.04 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/extentreports-2.41.2 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/freemarker-2.3.23 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/groovy-all-2.4.11 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/groovy-all-2.4.11.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/groovy-json-2.4.4 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/groovy-json-2.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/java-json - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/javax.activation - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/javax.activation.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/json-path-2.9.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/json-path-2.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/json-schema-validator-2.7.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/json-schema-validator-2.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/mail - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/mail.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/poi-3.16 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/poi-excelant-3.16 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/poi-ooxml-3.16 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/poi-ooxml-schemas-3.16 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/poi-scratchpad-3.16 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/selenium-server-standalone-2.47.1 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/selenium-server-standalone-2.47.1.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/xmlbeans-2.6.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="D:/AutomationPrimeCloud/GUISCRIPT/LP_Product/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Apache POI/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Apache POI/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
